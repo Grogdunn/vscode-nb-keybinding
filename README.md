@@ -20,5 +20,11 @@ Keymap
 |ctrl+shift+1   |workbench.files.action.focusOpenEditorsView|
 |ctrl+shift+0   |workbench.action.focusActiveEditorGroup|
 |ctrl+u u       |editor.action.transformToUppercase|        
-|ctrl+u l       |editor.action.transformToUppercase|        
+|ctrl+u l       |editor.action.transformToUppercase|
+
+Other commands (not from NetBeans):
+|key            | command            |
+|---------------|--------------------|
+|alt+up         |editor.action.insertCursorAbove|
+|alt+down       |editor.action.insertCursorBelow|
       

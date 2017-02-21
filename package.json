@@ -79,6 +79,16 @@
       {
         "key": "ctrl+shift+0",
         "command": "workbench.action.focusActiveEditorGroup"
+      },
+      {
+        "key": "alt+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "alt+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
       }
     ]
   }
