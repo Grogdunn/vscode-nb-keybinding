@@ -23,6 +23,7 @@ Keymap
 |ctrl+u l       |editor.action.transformToUppercase|
 
 Other commands (not from NetBeans):
+
 |key            | command            |
 |---------------|--------------------|
 |alt+up         |editor.action.insertCursorAbove|
