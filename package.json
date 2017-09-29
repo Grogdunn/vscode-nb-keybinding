@@ -90,6 +90,26 @@
         "key": "alt+down",
         "command": "editor.action.insertCursorBelow",
         "when": "editorTextFocus"
+      },
+      {
+        "command": "editor.fold",
+        "key": "ctrl+numpad_subtract",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "editor.unfold",
+        "key": "ctrl+numpad_add",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "editor.foldAll",
+        "key": "ctrl+shift+numpad_subtract",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "editor.unfoldAll",
+        "key": "ctrl+shift+numpad_add",
+        "when": "editorTextFocus"
       }
     ]
   }
