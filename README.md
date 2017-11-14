@@ -23,6 +23,8 @@ Keymap
 |ctrl+u l                  |editor.action.transformToLowercase|
 |ctrl+shift+numpad_add     |editor.unfoldAll|
 |ctrl+shift+numpad_subtract|editor.foldAll|
+|ctrl+shift+w              |workbench.action.closeEditorsInGroup|
+
 
 Other commands (not from NetBeans):
 
@@ -31,3 +33,7 @@ Other commands (not from NetBeans):
 |alt+up         |editor.action.insertCursorAbove|
 |alt+down       |editor.action.insertCursorBelow|
 
+Disabled
+|key            | command            |
+|---------------|--------------------|
+|ctrl+shift+w   |workbench.action.closeWindow|

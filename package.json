@@ -110,6 +110,14 @@
         "command": "editor.unfoldAll",
         "key": "ctrl+shift+numpad_add",
         "when": "editorTextFocus"
+      },
+      {
+        "command": "workbench.action.closeWindow",
+        "key": ""
+      },
+      {
+        "command": "workbench.action.closeEditorsInGroup",
+        "key": "ctrl+shift+w"
       }
     ]
   }
