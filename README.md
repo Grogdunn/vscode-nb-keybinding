@@ -34,6 +34,7 @@ Other commands (not from NetBeans):
 |alt+down       |editor.action.insertCursorBelow|
 
 Disabled
+
 |key            | command            |
 |---------------|--------------------|
 |ctrl+shift+w   |workbench.action.closeWindow|
