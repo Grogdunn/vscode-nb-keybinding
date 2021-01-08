@@ -24,6 +24,9 @@ Keymap
 |ctrl+shift+numpad_add     |editor.unfoldAll|
 |ctrl+shift+numpad_subtract|editor.foldAll|
 |ctrl+shift+w              |workbench.action.closeEditorsInGroup|
+|alt+shift+o               |workbench.action.quickOpen|
+|ctrl+o                    |workbench.action.showAllSymbols|
+|ctrl+shift+i              |editor.action.organizeImports|
 
 
 Other commands (not from NetBeans):
