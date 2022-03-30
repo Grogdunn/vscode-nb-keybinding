@@ -2,7 +2,7 @@
   "name": "netbeans-keybindings",
   "displayName": "Netbeans Keymaps",
   "description": "Bring Netbeans default keymap to VS Code.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "grogdunn",
   "engines": {
     "vscode": "^1.9.0"
