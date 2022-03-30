@@ -74,7 +74,7 @@
       },
       {
         "key": "ctrl+u l",
-        "command": "editor.action.transformToUppercase",
+        "command": "editor.action.transformToLowercase",
         "when": "editorTextFocus && !editorReadonly"
       },
       {
