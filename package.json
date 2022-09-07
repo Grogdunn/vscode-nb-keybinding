@@ -2,7 +2,7 @@
   "name": "netbeans-keybindings",
   "displayName": "Netbeans Keymaps",
   "description": "Bring Netbeans default keymap to VS Code.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "grogdunn",
   "engines": {
     "vscode": "^1.9.0"
@@ -131,6 +131,16 @@
         "key": "ctrl+shift+i",
         "command": "editor.action.organizeImports",
         "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
+      },
+      {
+        "key": "alt+left",
+        "command": "workbench.action.navigateBack",
+        "when": "canNavigateBack"
+      },
+      {
+        "key": "alt+right",
+        "command": "workbench.action.navigateForward",
+        "when": "canNavigateForward"
       }
     ]
   }

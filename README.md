@@ -27,6 +27,8 @@ Keymap
 |alt+shift+o               |workbench.action.quickOpen|
 |ctrl+o                    |workbench.action.showAllSymbols|
 |ctrl+shift+i              |editor.action.organizeImports|
+|alt+left                  |workbench.action.navigateBack|
+|alt+right                 |workbench.action.navigateForward|
 
 
 Other commands (not from NetBeans):
