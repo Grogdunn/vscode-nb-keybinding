@@ -141,6 +141,11 @@
         "key": "alt+right",
         "command": "workbench.action.navigateForward",
         "when": "canNavigateForward"
+      },
+      {
+        "key": "ctrl+r",
+        "command": "editor.action.rename",
+        "when": "editorHasRenameProvider && editorTextFocus && !editorReadonly"
       }
     ]
   }
