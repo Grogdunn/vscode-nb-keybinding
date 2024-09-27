@@ -29,7 +29,9 @@ Keymap
 |ctrl+shift+i              |editor.action.organizeImports|
 |alt+left                  |workbench.action.navigateBack|
 |alt+right                 |workbench.action.navigateForward|
+|ctrl+r                    |editor.action.rename|
 
+editor.action.rename
 
 Other commands (not from NetBeans):
 
