@@ -18,6 +18,7 @@ Keymap
 |alt+shift+up              |editor.action.moveLinesUpAction|
 |ctrl+1                    |workbench.view.explorer|
 |ctrl+shift+1              |workbench.files.action.focusOpenEditorsView|
+|ctrl+7                    |outline.focus|
 |ctrl+shift+0              |workbench.action.focusActiveEditorGroup|
 |ctrl+u u                  |editor.action.transformToUppercase|
 |ctrl+u l                  |editor.action.transformToLowercase|

@@ -68,6 +68,10 @@
         "command": "workbench.files.action.focusOpenEditorsView"
       },
       {
+        "key": "ctrl+7",
+        "command": "outline.focus"
+      },
+      {
         "key": "ctrl+u u",
         "command": "editor.action.transformToUppercase",
         "when": "editorTextFocus && !editorReadonly"
