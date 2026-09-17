@@ -32,8 +32,6 @@ Keymap
 |alt+right                 |workbench.action.navigateForward|
 |ctrl+r                    |editor.action.rename|
 
-editor.action.rename
-
 Other commands (not from NetBeans):
 
 |key            | command            |
